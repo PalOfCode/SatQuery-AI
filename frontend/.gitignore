@@ -1,0 +1,23 @@
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Python virtual environment
+venv/
+backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Build files
+dist/
+frontend/dist/
+
+# Logs
+*.log
